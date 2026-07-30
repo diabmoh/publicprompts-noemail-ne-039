@@ -34,7 +34,6 @@ Structured, data-oriented views of the AI product landscape.
 
 - [Global AI Product Index](https://globalaiproductindex.com) - A global database and market index for AI products: structured, citable profiles of AI companies and products.
 - [Global AI Product](https://globalaiproduct.site) - Global AI product discovery and launch platform.
-- [AIGC Tools Base](https://aigctoolsbase.online) - Independent AIGC tools database and resource platform.
 - [Product Hunt AI](https://www.producthunt.com/topics/artificial-intelligence) - Community-voted AI product launches.
 - [Crunchbase AI Companies](https://www.crunchbase.com/hub/artificial-intelligence-companies) - Funding and company data for the AI industry.
 - [AI Incident Database](https://incidentdatabase.ai) - Indexed record of AI system failures and harms, useful for due diligence.
